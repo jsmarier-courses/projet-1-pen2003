@@ -12,9 +12,11 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 
 ##CSS:
 
-1. I used crimson as a colour for my h1 headings.
-2. J'ai ajouté une classe h2-bleu à certains titres de niveau 2 et ai modifié la feuille CSS pour les rendre bleus.
-3. I changed the background colour from whitesmoke to darkblue.
-4. J'ai mis Arial comme police par défaut pour tous les paragraphes.
-5. I used a font size of 18px in my paragraphs.
-6. Etc.
+1. J'ai changé la couleur et la grosseur des lettres du Body
+2. J'ai changé la couleur du background de mon site. Il est maintenant en kaki.
+3. Pour le logo, j'ai changé le front size, la couleur et j'ai fait en sorte qu'il soit ''underline''.
+4.  Pour le top menu j'ai changé la couleur, j'ai underline et j'ai aussi changé le font-style.
+5. J'ai changé aussi la couleur de la current page link.
+6. J'ai changé la couleur de la page content. 
+7.La couleur du footer.
+8. Puis, j'ai changé la couleur, le border et le font-style de mes figcaption. 
