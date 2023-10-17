@@ -102,7 +102,7 @@ body {
     text-decoration: underline;
 }
 
-.figcaption {
+.main-section figcaption {
     color: rgb(86, 141, 86);
     font-style: italic;
 }
