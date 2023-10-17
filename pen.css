@@ -106,3 +106,7 @@ body {
     color: rgb(86, 141, 86);
     font-style: italic;
 }
+
+.main-section p {
+    font-style: oblique
+}
